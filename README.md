@@ -73,6 +73,8 @@ This project is a weather application that provides real-time weather informatio
 3. Enter a city name in the input field and press "Search" or hit "Enter."
 4. View the current weather details and the four-day forecast for the specified city.
 
+Alternatively, you can visit the live application hosted at: [Weather App](https://harsh-madhavan.github.io/API-Based-Weather-App/)
+
 ## Future Improvements
 - Extend the forecast to seven days.
 - Implement geolocation to auto-detect the user's location.
@@ -84,4 +86,7 @@ This project is a weather application that provides real-time weather informatio
 - **Material Symbols**: For enhancing the visual appeal with icons.
 
 This project is a simple yet effective demonstration of integrating APIs into web applications, suitable for beginners exploring JavaScript and web development.
+
+
+
 
